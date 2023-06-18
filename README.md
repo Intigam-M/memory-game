@@ -1,5 +1,7 @@
 # Memory Game
 
+![Memory Game](https://github.com/Intigam-M/memory-game/blob/main/app.png)
+
 This is a simple memory game built using React. The objective of the game is to find all matching pairs of cards within a given set of cards.
 
 ## Demo
